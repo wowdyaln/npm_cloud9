@@ -10,9 +10,18 @@
     "socket.io": "^0.9.17"
   },
   "devDependencies": {},
-  "scripts": {  
-           "test": "node test.js"  
-         }, 
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wowdyaln/npm_cloud9.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wowdyaln/npm_cloud9/issues"
+  },
+  "homepage": "https://github.com/wowdyaln/npm_cloud9#readme"
 }
